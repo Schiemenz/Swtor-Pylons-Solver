@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_author">Frank Schiemenz</string><string name="app_name">Swtor Pylon Solver</string>
+    <string name="app_desc">A Simple Pylon Puzzle Solver for SWTOR.</string><string name="tab1">Current</string>
+    <string name="tab2">Target</string>
+    <string name="tab3">Solution</string>
+    
+    
+
+</resources>
